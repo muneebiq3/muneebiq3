@@ -75,10 +75,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![XAMPP](https://img.shields.io/badge/XAMPP-F97300?style=flat&logo=xampp&logoColor=white&labelColor=F97300)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white&labelColor=00618A)
 
-
-<img src="iconmonstr-window-multiple-3d-filled-240.png">
-
- **APIs** <br>
+⚙️ **APIs** <br>
 
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7E4C3C?style=flat&logo=openstreetmap&logoColor=white&labelColor=7E4C3C)
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
