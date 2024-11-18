@@ -66,9 +66,9 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 🛠️ **Tools** <br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000000)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&labelColor=181717)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=FFFFFF&labelColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
 ![Dev C++](https://img.shields.io/badge/Dev%20C++-000000?style=flat&logo=dev-to&logoColor=white&labelColor=000000)
 ![Visual Studio Professional](https://img.shields.io/badge/Visual%20Studio%20Professional-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=5C2D91)
 ![NetBeans](https://img.shields.io/badge/NetBeans-CB2027?style=flat&logo=apache-netbeans-ide&logoColor=white&labelColor=CB2027)
