@@ -39,6 +39,10 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/muneeb.iqbal.7374?mibextid=ZbWKwL">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <a href="https://www.reddit.com/user/muneeb.iqbal.7374" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    </a>
+
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=muneebiq3&style=flat-square&color=blue" alt=""/>
