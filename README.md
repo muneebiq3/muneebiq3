@@ -76,11 +76,14 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white&labelColor=00618A)
 
 
-📚 **Libraries** <br>
+📚 **APIs** <br>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7E4C3C?style=flat&logo=openstreetmap&logoColor=white&labelColor=7E4C3C)
+![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
+
+📚 **Libraries** <br>
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 
 🌐 **Frameworks** <br>
 
