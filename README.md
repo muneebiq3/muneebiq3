@@ -77,14 +77,9 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 📚 **Libraries** <br>
 
-![pandas](https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas&logoColor=white&labelColor=150458)
-![numpy](https://img.shields.io/badge/-numpy-000000?style=flat&logo=numpy&logoColor=white&labelColor=013243)
-![matplotlib](https://img.shields.io/badge/-matplotlib-000000?style=flat&logo=matplotlib&logoColor=white&labelColor=11557C)
-![scipy](https://img.shields.io/badge/-scipy-000000?style=flat&logo=scipy&logoColor=white&labelColor=8CAAE6)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=FF0000)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7E4C3C?style=flat&logo=openstreetmap&logoColor=white&labelColor=7E4C3C)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 
 🌐 **Frameworks** <br>
 
