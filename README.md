@@ -76,7 +76,9 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white&labelColor=00618A)
 
 
-📚 **APIs** <br>
+<img src="https://fonts.gstatic.com/s/i/materialiconsround/api/v10/24px.svg" alt="API" width="24" height="24">
+
+ **APIs** <br>
 
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7E4C3C?style=flat&logo=openstreetmap&logoColor=white&labelColor=7E4C3C)
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
