@@ -74,6 +74,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![NetBeans](https://img.shields.io/badge/NetBeans-CB2027?style=flat&logo=apache-netbeans-ide&logoColor=white&labelColor=CB2027)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F97300?style=flat&logo=xampp&logoColor=white&labelColor=F97300)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white&labelColor=00618A)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=3DDC84)
 
 ⚙️ **APIs** <br>
 
