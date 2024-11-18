@@ -38,6 +38,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
+  <img src="https://komarev.com/ghpvc/?username=muneebiq3&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align='center'><strong><a href="https://www.upwork.com/freelancers/~01a657d6b0a6da59ae?mp_source=share" target="_blank">Portfolio🌐</a></strong></h3>
