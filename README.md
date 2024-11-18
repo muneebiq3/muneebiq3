@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/muneeb-iqbal-b55138330/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/muneeb-iqbal-b55138330/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:muneebiq24@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a href="mailto:muneebiq24@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a> 
-    <a href="https://www.instagram.com/muneeb_iqbal526?igsh=ZXIzbGZ0MHNhaTFn">
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://www.instagram.com/muneeb_iqbal526?igsh=ZXIzbGZ0MHNhaTFn" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.facebook.com/muneeb.iqbal.7374?mibextid=ZbWKwL">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://www.facebook.com/muneeb.iqbal.7374?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.reddit.com/user/muneeb.iqbal.7374" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
