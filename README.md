@@ -73,6 +73,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![Visual Studio Professional](https://img.shields.io/badge/Visual%20Studio%20Professional-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=5C2D91)
 ![NetBeans](https://img.shields.io/badge/NetBeans-CB2027?style=flat&logo=apache-netbeans-ide&logoColor=white&labelColor=CB2027)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F97300?style=flat&logo=xampp&logoColor=white&labelColor=F97300)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat&logo=mysql&logoColor=white&labelColor=00618A)
 
 
 📚 **Libraries** <br>
