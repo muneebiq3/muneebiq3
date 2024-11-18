@@ -87,6 +87,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 🌐 **Frameworks** <br>
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=02569B)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20)
