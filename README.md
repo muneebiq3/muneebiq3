@@ -42,6 +42,9 @@ Here are some ideas to get you started:
     <a href="https://www.reddit.com/user/muneeb.iqbal.7374" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
+    <a href="https://www.upwork.com/freelancers/~muneebiqbal" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+    </a>
 
   </div>
   <br>
