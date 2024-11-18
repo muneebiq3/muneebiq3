@@ -19,7 +19,7 @@
     <a href="https://www.facebook.com/muneeb.iqbal.7374?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="https://www.reddit.com/user/muneeb.iqbal.7374" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.reddit.com/user/jester627/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
     
