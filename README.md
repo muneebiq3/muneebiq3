@@ -89,7 +89,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ## 🔝 **Top Repo**
 
 <a href="https://github.com/muneebiq3/Server-Side-PHP">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Server-Side-PHP&theme=dark" alt="Web Technologies" />
+  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Laravel&theme=dark" alt="Web Technologies" />
 </a>
 
 <p align="left">
