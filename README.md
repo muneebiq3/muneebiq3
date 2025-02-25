@@ -4,7 +4,7 @@
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/muneeb-iqbal-b55138330/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/muhammad-muneeb-iqbal-b55138330" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:muneebiq24@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -88,7 +88,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 ## 🔝 **Top Repo**
 
-<a href="https://github.com/muneebiq3/Server-Side-PHP">
+<a href="https://github.com/muneebiq3/Laravel">
   <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Laravel&theme=dark" alt="Web Technologies" />
 </a>
 
