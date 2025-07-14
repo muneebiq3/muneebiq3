@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Muneeb Iqbal</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h2>
 
 <div id="header" align="center">
 
@@ -32,14 +32,14 @@
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and MERN Stack Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
 
-I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
-- :telescope: I’m studying BS Computer Science and working as a remote Development intern.
+I am a `Computer Science student` based in Islamabad.
+- I’m studying BS Computer Science and working as a remote Development intern.
 
-- :seedling: Exploring and working on various Flutter and Laravel projects.
+- Exploring and working on various Flutter and Laravel projects.
 
-- :zap: In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
+- In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
 
-## 🚀 Skills
+## Skills
 
 💻 **Languages**<br>
 
