@@ -32,8 +32,7 @@
 
 <p align='left'> As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and MERN Stack Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
 
-I am a `Computer Science student` based in Islamabad.
-- Final semester BS Computer Science student with hands-on experience in full-stack and cross-platform development.
+- `Final semester Computer Science student` based in Islamabad with hands-on experience in full-stack and cross-platform development.
 
 - Actively building projects using Flutter, MERN Stack, and Laravel, with a focus on clean architecture and user-centric design.
 
