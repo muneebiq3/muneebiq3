@@ -55,7 +55,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 🛠️ **Tools** <br>
 
 ![Caido](https://img.shields.io/badge/-Caido-d1846d?style=flat&logo=caido&logoColor=white&labelColor=d1846d)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
+![MongoDB Compass](https://img.shields.io/badge/Compass-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c36?style=flat&logo=postman&logoColor=white&labelColor=ff6c36)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)
