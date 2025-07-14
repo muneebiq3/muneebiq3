@@ -13,9 +13,6 @@
     <a href="https://www.upwork.com/freelancers/~01a657d6b0a6da59ae" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
-    <a href="https://www.instagram.com/muneeb_iqbal526?igsh=ZXIzbGZ0MHNhaTFn" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
     <a href="https://www.facebook.com/muneeb.iqbal.7374?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
@@ -31,9 +28,9 @@
 </div>
 
 <h3 align='center'><strong><a href="https://www.upwork.com/freelancers/~01a657d6b0a6da59ae?mp_source=share" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Flutter | Vue.js | PHP | Laravel | Bootstrap 5</p>
+<p align='center'>Full-Stack Developer | Flutter & MERN Stack</p>
 
-<p align='left'> 📫 As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and Laravel Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and MERN Stack Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
 
 I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Islamabad.
 - :telescope: I’m studying BS Computer Science and working as a remote Development intern.
@@ -46,6 +43,8 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 💻 **Languages**<br>
 
+![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=00599C&labelColor=white)
+![Kotlin](https://img.shields.io/badge/Korlin-white?style=flat&logo=kotlin&logoColor=a832f6&labelColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white&labelColor=68217A)
@@ -55,9 +54,12 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 🛠️ **Tools** <br>
 
+![Caido](https://img.shields.io/badge/-Caido-d1846d?style=flat&logo=caido&logoColor=white&labelColor=d1846d)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
+![Postman](https://img.shields.io/badge/-Postman-ff6c36?style=flat&logo=postman&logoColor=white&labelColor=ff6c36)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=vscode&logoColor=white&labelColor=007ACC)
 ![Dev C++](https://img.shields.io/badge/Dev%20C++-000000?style=flat&logo=dev-to&logoColor=white&labelColor=000000)
 ![Visual Studio Professional](https://img.shields.io/badge/Visual%20Studio%20Professional-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=5C2D91)
 ![NetBeans](https://img.shields.io/badge/NetBeans-CB2027?style=flat&logo=apache-netbeans-ide&logoColor=white&labelColor=CB2027)
@@ -71,25 +73,28 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
 
 📚 **Libraries** <br>
+![React](https://img.shields.io/badge/React.js-white?style=flat&logo=react&logoColor=61DAFB&labelColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 
 🌐 **Frameworks** <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=02569B)
+![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000&labelColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20)
 
 🛢 **Database** <br>
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
 ## 🔝 **Top Repo**
 
-<a href="https://github.com/muneebiq3/Laravel">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Laravel&theme=dark" alt="Web Technologies" />
+<a href="https://github.com/muneebiq3/Finance-Manager">
+  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Finance-Manager&theme=dark" alt="Application Development" />
 </a>
 
 <p align="left">
