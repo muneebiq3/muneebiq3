@@ -44,7 +44,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 💻 **Languages**<br>
 
 ![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=00599C&labelColor=white)
-![Kotlin](https://img.shields.io/badge/Korlin-white?style=flat&logo=kotlin&logoColor=a832f6&labelColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=a832f6&labelColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white&labelColor=68217A)
