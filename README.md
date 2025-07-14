@@ -94,7 +94,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ## 🔝 **Top Repo**
 
 <a href="https://github.com/muneebiq3/Finance-Manager">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Finance-Manager&theme=dark" alt="Application Development" />
+  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Finance-Manager&theme=dark&cache_seconds=0" alt="Application Development" />
 </a>
 
 <p align="left">
