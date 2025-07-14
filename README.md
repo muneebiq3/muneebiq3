@@ -30,14 +30,14 @@
 <h3 align='center'><strong><a href="https://www.upwork.com/freelancers/~01a657d6b0a6da59ae?mp_source=share" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Full-Stack Developer | Flutter & MERN Stack</p>
 
-<p align='left'> 📫 As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and MERN Stack Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
+<p align='left'> As someone who is always passionate about learning more about tech and life, A self-taught Developer and an unstoppable learner. I have evolved into a Flutter and MERN Stack Development carrer path and enjoy working with cutting-edge algorithms and technologies.</p>
 
 I am a `Computer Science student` based in Islamabad.
-- I’m studying BS Computer Science and working as a remote Development intern.
+- Final semester BS Computer Science student with hands-on experience in full-stack and cross-platform development.
 
-- Exploring and working on various Flutter and Laravel projects.
+- Actively building projects using Flutter, MERN Stack, and Laravel, with a focus on clean architecture and user-centric design.
 
-- In my free time, I enjoy learning new data science techniques, working on personal projects, and reading tech articles.
+- Focusing on expanding my knowledge in data science and modern development tools,
 
 ## Skills
 
