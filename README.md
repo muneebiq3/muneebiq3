@@ -98,7 +98,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 </a>
 
 <p align="left">
-  <a href="https://github.com/muneebiq3?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/muneebiq3?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-0d1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> **Github Stats**
