@@ -43,8 +43,8 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 
 💻 **Languages**<br>
 
-![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=00599C&labelColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=a832f6&labelColor=white)
+![Dart](https://img.shields.io/badge/Dart-00599C?style=flat&logo=dart&logoColor=white&labelColor=00599C)
+![Kotlin](https://img.shields.io/badge/Kotlin-a832f6?style=flat&logo=kotlin&logoColor=white&labelColor=a832f6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white&labelColor=68217A)
@@ -55,7 +55,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 🛠️ **Tools** <br>
 
 ![Caido](https://img.shields.io/badge/-Caido-d1846d?style=flat&logo=caido&logoColor=white&labelColor=d1846d)
-![MongoDB Compass](https://img.shields.io/badge/Compass-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
+![MongoDB Compass](https://img.shields.io/badge/Compass-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c36?style=flat&logo=postman&logoColor=white&labelColor=ff6c36)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)
@@ -73,7 +73,7 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
 
 📚 **Libraries** <br>
-![React](https://img.shields.io/badge/React.js-white?style=flat&logo=react&logoColor=61DAFB&labelColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 
@@ -82,12 +82,12 @@ I am a `Computer Science student` <img src="https://media.giphy.com/media/WUlplc
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=02569B)
 ![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000&labelColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20)
 
 🛢 **Database** <br>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb&logoColor=47A248&labelColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
